@@ -19,4 +19,15 @@ langchain-openrouter
 langchain-huggingface
 langchain-anthropic
 langchain-ollama
-pyyaml
+pypdf 
+python-docx 
+pandas 
+openpyxl 
+beautifulsoup4
+docx2txt 
+jq 
+unstructured
+pymupdf
+pdfplumber
+tabulate
+langchain-community
